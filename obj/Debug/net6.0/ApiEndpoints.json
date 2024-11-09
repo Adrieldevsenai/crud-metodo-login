@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ExoApi.Controllers.ProjetosController",
+    "Method": "GetProjetos",
+    "RelativePath": "api/Projetos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
